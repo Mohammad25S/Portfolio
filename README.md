@@ -1,6 +1,6 @@
 # Mohammad Shah
 
-Master's candidate in Business Analytics & AI at Ontario Tech University (GPA: 4.03/4.3), with a background in financial transaction processing and a focus on turning data into decisions that drive real business value.
+Master's in Business Analytics & AI at Ontario Tech University (GPA: 4.03/4.3), with a background in financial transaction processing and a focus on turning data into decisions that drive real business value.
 
 Before my Master's, I spent over a year at BMO executing hundreds of complex financial transactions daily with 100% accuracy, and four years at FedEx managing high-volume logistics operations. That professional experience shapes how I approach analytics — with a strong emphasis on accuracy, data integrity, and practical impact.
 
