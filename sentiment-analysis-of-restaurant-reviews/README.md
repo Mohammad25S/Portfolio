@@ -31,10 +31,10 @@ This fallback approach handles ambiguous short reviews (e.g. "nice", "okay") mor
 ### Step 3 — Model Training & Comparison
 The categorized labels were used to train and compare two deep learning classifiers:
 
-| Model | Architecture | Best Validation Accuracy |
-|---|---|---|
-| Baseline | Embedding + GlobalAveragePooling + Dense | 78.28% |
-| Improved (CNN) | Embedding + Conv1D + MaxPooling + Dropout + Dense | 78.83% |
+| Model | Architecture |
+|---|---|
+| Baseline | Embedding + GlobalAveragePooling + Dense |
+| Improved (CNN) | Embedding + Conv1D + MaxPooling + Dropout + Dense |
 
 Both models were trained on 4,931 reviews and validated on 548. The CNN model was selected for the final response system.
 
